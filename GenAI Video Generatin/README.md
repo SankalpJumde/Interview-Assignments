@@ -19,19 +19,19 @@ Automatically generate 30–60 second AI-powered videos from trending news topic
 
 GenAI-Video-Generator/
 
-├── main.py
-├── config.py
-├── README.md
-├── utils/
-│ ├── news_scraper.py # Scrapes trending news
-│ ├── script_generator.py # Generates script with LLM
-│ ├── image_fetcher.py # Downloads relevant images
-│ ├── tts.py # Converts script to speech
-│ └── video_creator.py # Generates final video
-├── Assets/
-│ ├── Audio/
-│ └── Images/
-└── Output videos/ # Final generated videos
+├── main.py .
+├── config.py .
+├── README.md .
+├── utils/ .
+│ ├── news_scraper.py # Scrapes trending news .
+│ ├── script_generator.py # Generates script with LLM .
+│ ├── image_fetcher.py # Downloads relevant images .
+│ ├── tts.py # Converts script to speech .
+│ └── video_creator.py # Generates final video .
+├── Assets/ .
+│ ├── Audio/ .
+│ └── Images/ .
+└── Output videos/ # Final generated videos .
 
 🧪 Sample Output
 Topic: Operation Sindoor (Indian Army Rescue)
@@ -62,10 +62,3 @@ Final Video: output_videos/operation_sindoor.mp4
 This project is licensed under the MIT License.
 
 ---
-
-Let me know if you'd like me to:
-- Add a `requirements.txt` that matches this
-- Generate example screenshots or a video preview thumbnail
-- Help deploy this as a web app with Streamlit or Flask
-
-Would you like me to save this as a downloadable file too?
