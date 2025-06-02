@@ -54,10 +54,9 @@ Final Video: output_videos/operation_sindoor.mp4
 - Schedule daily auto-video generation
 
 ## 👨‍💻 Author
-Sankalp Krishna
-📧 sankalpkrishna1103@gmail.com
-🔗 LinkedIn
-🔗 GitHub
+**Sankalp Jumde**  
+🎓 B.Tech AI, Class of 2026  
+🔗 [[LikendIn](https://www.linkedin.com/in/sankalp-jumde/)] | [[GitHub](https://github.com/SankalpJumde)] | [[Mail](sankalpkrishna1103@gmail.com)]
 
 ## 📄 License
 This project is licensed under the MIT License.
