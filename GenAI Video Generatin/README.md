@@ -33,7 +33,7 @@ GenAI-Video-Generator/\
 └── Output videos/ # Final generated videos\
 
 ## 🧪 Sample Output
-**Topic: Operation Sindoor (Indian Army Rescue)**
+**Topic: Operation Sindoor (Indian Army Rescue)**\
 Video Length: ~40 seconds\
 Voiceover: gTTS (English)\
 Images: Pulled from Google Images / Pexels\
