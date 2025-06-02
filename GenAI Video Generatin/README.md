@@ -46,7 +46,7 @@ Final Video: Output videos/operation_sindoor.mp4\
 - requests
 - beautifulsoup4
 
-## 🔮 To-Do / Improvements
+## 🔮 To-Dos
 - Add subtitles to videos
 - Use ElevenLabs or Bark for better voiceover
 - Add UI with Streamlit or Gradio
