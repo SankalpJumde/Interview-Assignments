@@ -18,30 +18,19 @@ Automatically generate 30–60 second AI-powered videos from trending news topic
 ## 🗂️ Project Structure
 
 GenAI-Video-Generator/
+
 ├── main.py
-
 ├── config.py
-
 ├── README.md
-
 ├── utils/
-
 │ ├── news_scraper.py # Scrapes trending news
-
 │ ├── script_generator.py # Generates script with LLM
-
 │ ├── image_fetcher.py # Downloads relevant images
-
 │ ├── tts.py # Converts script to speech
-
 │ └── video_creator.py # Generates final video
-
 ├── Assets/
-
 │ ├── Audio/
-
 │ └── Images/
-
 └── Output videos/ # Final generated videos
 
 🧪 Sample Output
