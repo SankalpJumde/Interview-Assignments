@@ -32,12 +32,12 @@ GenAI-Video-Generator/\
 │ └── Images/\
 └── Output videos/ # Final generated videos\
 
-🧪 Sample Output
-Topic: Operation Sindoor (Indian Army Rescue)
-Video Length: ~40 seconds
-Voiceover: gTTS (English)
-Images: Pulled from Google Images / Pexels
-Final Video: Output videos/operation_sindoor.mp4
+## 🧪 Sample Output
+**Topic: Operation Sindoor (Indian Army Rescue)**
+Video Length: ~40 seconds\
+Voiceover: gTTS (English)\
+Images: Pulled from Google Images / Pexels\
+Final Video: Output videos/operation_sindoor.mp4\
 
 ## 📦 Dependencies
 - openai
