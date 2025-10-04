@@ -61,16 +61,17 @@ streamlit run streamlit.py
 📂 Project Structure
 
 ├── expenses_tracker.py         # CLI version
-|
+
 ├── streamlit.py   # Streamlit UI version
-|
+
 ├── outputs/                       # Saved JSON/CSV reports
-|
+
 ├── requirements.txt               # Dependencies
-|
+
 └── README.md                      # Project documentation
 
 ---
+
 ## 📝 My Journey (Learning & Effort)
 ✅ Did you try hard and document your journey?
 Yes! I started with a simple CLI version that only calculated daily → weekly → monthly by scaling.
