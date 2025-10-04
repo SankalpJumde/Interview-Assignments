@@ -60,9 +60,13 @@ streamlit run streamlit.py
 
 📂 Project Structure
 ├── expenses_tracker.py         # CLI version
+
 ├── streamlit.py   # Streamlit UI version
+
 ├── outputs/                       # Saved JSON/CSV reports
+
 ├── requirements.txt               # Dependencies
+
 └── README.md                      # Project documentation
 
 ---
