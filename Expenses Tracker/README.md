@@ -108,3 +108,5 @@ Sankalp Jumde
 🚀 AI/ML Intern
 💼 Passionate about building practical AI-powered apps
 🌐  [[LikendIn](https://www.linkedin.com/in/sankalp-jumde/)] | [[GitHub](https://github.com/SankalpJumde)] | [[Mail](sankalpkrishna1103@gmail.com)]
+
+
